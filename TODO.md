@@ -1,6 +1,3 @@
-# Run volunteer local
-https://e6a95cb1d4de.ngrok.io/heroku_deploy_hook
-
 # Change update URL. Confirm still works
 
 # Remove hardcoded token
