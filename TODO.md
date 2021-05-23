@@ -1,16 +1,42 @@
-# Change update URL. Confirm still works
+# Check works for deployment
 
-# Remove hardcoded token
+# New PR
 
-# Merge PR
-
-# Deploy volunteer. Add environment variable. Check still works
-
-# Point Heroku webhook at Lambda
+# Update remote for repo
 
 # Switch to zd-web UAT
 
+# Update README
+
 # Switch to the shhh channel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 https://devcenter.heroku.com/articles/deploy-hooks
 https://devcenter.heroku.com/articles/app-webhooks
