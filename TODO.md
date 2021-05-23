@@ -3,6 +3,7 @@
 # New PR
 
 # Update remote for repo
+git@github.com:ZeroDeposit/RoboZD-Slack.git
 
 # Switch to zd-web UAT
 
@@ -10,7 +11,7 @@
 
 # Switch to the shhh channel
 
-
+# Issue add Sentry
 
 
 
