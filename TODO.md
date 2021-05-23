@@ -4,7 +4,9 @@
 
 # Point Heroku webhook at Lambda
 
-# Write proper readme
+# Switch to zd-web UAT
+
+# Switch to the shhh channel
 
 https://devcenter.heroku.com/articles/deploy-hooks
 https://devcenter.heroku.com/articles/app-webhooks

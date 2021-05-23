@@ -33,5 +33,4 @@ def post_message_to_slack(text, blocks=None):
             "text": text,
         },
     ).json()
-    import pdb; pdb.set_trace()
     return response
