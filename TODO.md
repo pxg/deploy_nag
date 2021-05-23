@@ -1,6 +1,13 @@
-# Move code into volunteer
+# Run volunteer local
+https://e6a95cb1d4de.ngrok.io/heroku_deploy_hook
 
-# Deploy code
+# Change update URL. Confirm still works
+
+# Remove hardcoded token
+
+# Merge PR
+
+# Deploy volunteer. Add environment variable. Check still works
 
 # Point Heroku webhook at Lambda
 
