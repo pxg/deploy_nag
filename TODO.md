@@ -1,43 +1,12 @@
-# Check works for deployment
+# Better logging for people's names
 
-# New PR
-
-# Update remote for repo
-git@github.com:ZeroDeposit/RoboZD-Slack.git
-
-# Switch to zd-web UAT
+# Update Github URL
 
 # Update README
 
 # Switch to the shhh channel
 
 # Issue add Sentry
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 https://devcenter.heroku.com/articles/deploy-hooks
 https://devcenter.heroku.com/articles/app-webhooks
@@ -47,7 +16,7 @@ ngrok http 80
 ```
 heroku addons:create deployhooks:http \
     --url=https://e6a95cb1d4de.ngrok.io \
-    --app=hello-pete
+    --app=zerodeposit-uat
 ```
 
 https://realpython.com/flask-by-example-part-1-project-setup/
