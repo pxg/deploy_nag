@@ -12,6 +12,7 @@ Which venv to use Python 3.9
 /usr/local/bin/python3
 python3 -m venv deploy_nag
 
+# Change terminal to start on newline
 
 # Can I tell who deployed?
 
