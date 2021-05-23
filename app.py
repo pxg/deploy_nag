@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 def get_diff_url(head, prev_head):
     prev_head_short = prev_head[0:8]
-    return f"https://github.com/pxg/deploy_nag/compare/{head}...{prev_head_short}"
+    return f"https://github.com/pxg/deploy_nag/compare/{prev_head_short}...{head}"
 
 
 @app.route("/", methods=["GET", "POST"])
